@@ -1,5 +1,5 @@
-body{
+@import"partials/_variables.scss";
 
-    background: red;
-
+h1{
+    color: $base-color;
 }
